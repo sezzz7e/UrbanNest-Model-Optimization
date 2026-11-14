@@ -1,0 +1,17 @@
+URBANNEST - TASK 2 RESULTS
+==========================
+
+Selected Model: XGBoost
+Baseline MAE: $17,309.70
+Optimized Test MAE: $13,603.27
+Optimized Test RMSE: $23,023.79
+Optimized Test R2: 0.9339
+MAE Improvement: 21.41%
+
+TOP 5 IMPORTANT FEATURES
+------------------------
+Overall Qual: 14353.947461
+Total_Finished_Area: 8537.694727
+Gr Liv Area: 3926.581836
+Year Built: 1668.580957
+Lot Area: 1351.370312
